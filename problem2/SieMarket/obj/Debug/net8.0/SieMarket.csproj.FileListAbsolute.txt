@@ -1,0 +1,14 @@
+/home/bogdan/Desktop/siemens_problems/problem2/SieMarket/bin/Debug/net8.0/SieMarket
+/home/bogdan/Desktop/siemens_problems/problem2/SieMarket/bin/Debug/net8.0/SieMarket.deps.json
+/home/bogdan/Desktop/siemens_problems/problem2/SieMarket/bin/Debug/net8.0/SieMarket.runtimeconfig.json
+/home/bogdan/Desktop/siemens_problems/problem2/SieMarket/bin/Debug/net8.0/SieMarket.dll
+/home/bogdan/Desktop/siemens_problems/problem2/SieMarket/bin/Debug/net8.0/SieMarket.pdb
+/home/bogdan/Desktop/siemens_problems/problem2/SieMarket/obj/Debug/net8.0/SieMarket.GeneratedMSBuildEditorConfig.editorconfig
+/home/bogdan/Desktop/siemens_problems/problem2/SieMarket/obj/Debug/net8.0/SieMarket.AssemblyInfoInputs.cache
+/home/bogdan/Desktop/siemens_problems/problem2/SieMarket/obj/Debug/net8.0/SieMarket.AssemblyInfo.cs
+/home/bogdan/Desktop/siemens_problems/problem2/SieMarket/obj/Debug/net8.0/SieMarket.csproj.CoreCompileInputs.cache
+/home/bogdan/Desktop/siemens_problems/problem2/SieMarket/obj/Debug/net8.0/SieMarket.dll
+/home/bogdan/Desktop/siemens_problems/problem2/SieMarket/obj/Debug/net8.0/refint/SieMarket.dll
+/home/bogdan/Desktop/siemens_problems/problem2/SieMarket/obj/Debug/net8.0/SieMarket.pdb
+/home/bogdan/Desktop/siemens_problems/problem2/SieMarket/obj/Debug/net8.0/SieMarket.genruntimeconfig.cache
+/home/bogdan/Desktop/siemens_problems/problem2/SieMarket/obj/Debug/net8.0/ref/SieMarket.dll
